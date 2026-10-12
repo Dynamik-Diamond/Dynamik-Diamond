@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Diamond 👋
 
-<!--
-**Dynamik-Diamond/Dynamik-Diamond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in operations and I'm now building skills in cloud engineering.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I oversee operations and WordPress website projects
+- 🌱 I'm learning cloud engineering through the Learn to Cloud path
+- 💬 Ask me about project management and customer support
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/diamond-imariabe/)
