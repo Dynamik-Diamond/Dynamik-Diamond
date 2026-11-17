@@ -5,7 +5,7 @@ I work in operations and website delivery, and I'm learning cloud engineering al
 ## What I do
 
 - 💼 Oversee operations and WordPress website projects
-- 🌱 I'm learning cloud engineering through the Learn to Cloud path
+- 🌱 Ask me about project management and customer support
 
 ## What I'm learning
 
