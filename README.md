@@ -1,12 +1,17 @@
 # Hi, I'm Diamond 👋
 
-I work in operations and I'm now building skills in cloud engineering.
+I work in operations and website delivery, and I'm learning cloud engineering alongside my work.
 
-## About me
+## What I do
 
-- 💼 I oversee operations and WordPress website projects
+- 💼 Oversee operations and WordPress website projects
 - 🌱 I'm learning cloud engineering through the Learn to Cloud path
-- 💬 Ask me about project management and customer support
+
+## What I'm learning
+
+- 🌱 Following the Learn to Cloud curriculum, with AWS as my chosen platform
+- 💻 Hands-on so far: terminal basics, Git, and Markdown on GitHub
+- 📚 Concepts studied so far, not yet practised hands-on: Infrastructure as Code, CI/CD, containers, Kubernetes and observability
 
 ## Connect with me
 
